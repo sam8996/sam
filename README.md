@@ -1,3 +1,4 @@
 # sam
-author samruddhi diwane
+author samruddhi diwane (student)
+name aish
 <br>
